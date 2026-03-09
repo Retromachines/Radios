@@ -265,3 +265,7 @@ america_htm_files/521.jpg
 america_htm_files/522.jpg
 america_htm_files/523.jpg
 america_htm_files/524.png
+america_htm_files/530.jpg
+america_htm_files/531.jpg
+america_htm_files/532.jpg
+america_htm_files/533.jpg
