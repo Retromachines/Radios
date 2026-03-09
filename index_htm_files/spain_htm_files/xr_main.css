@@ -96,12 +96,6 @@ body {text-align:center;}
 .xr_page15 {top:0px; width:1280px;}
 .xr_bgb16 {background-color: #100F0F;}
 .xr_page16 {top:0px; width:1280px;}
-.xr_bgb17 {background-color: #100F0F;}
-.xr_page17 {top:0px; width:1280px;}
-.xr_bgb18 {background-color: #100F0F;}
-.xr_page18 {top:0px; width:1280px;}
-.xr_bgb19 {background-color: #100F0F;}
-.xr_page19 {top:0px; width:1280px;}
 }
 @media print {
  #xr_xrii{overflow:visible !important; position: relative !important;}

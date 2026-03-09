@@ -10,7 +10,6 @@ europeas_htm_files/5.jpg
 europeas_htm_files/6.jpg
 europeas_htm_files/7.jpg
 europeas_htm_files/8.jpg
-europeas_htm_files/9.jpg
 europeas_htm_files/11.jpg
 europeas_htm_files/12.jpg
 europeas_htm_files/13.jpg
@@ -63,6 +62,7 @@ europeas_htm_files/59.jpg
 europeas_htm_files/60.jpg
 europeas_htm_files/61.jpg
 europeas_htm_files/62.jpg
+europeas_htm_files/63.png
 europeas_htm_files/64.jpg
 europeas_htm_files/65.jpg
 europeas_htm_files/66.jpg
@@ -111,11 +111,6 @@ europeas_htm_files/108.jpg
 europeas_htm_files/109.jpg
 europeas_htm_files/110.jpg
 europeas_htm_files/111.jpg
-europeas_htm_files/113.jpg
-europeas_htm_files/114.jpg
-europeas_htm_files/115.jpg
-europeas_htm_files/116.jpg
-europeas_htm_files/117.jpg
 europeas_htm_files/118.jpg
 europeas_htm_files/119.jpg
 europeas_htm_files/120.jpg
@@ -159,5 +154,3 @@ europeas_htm_files/157.jpg
 europeas_htm_files/158.jpg
 europeas_htm_files/159.jpg
 europeas_htm_files/160.jpg
-europeas_htm_files/63.png
-europeas_htm_files/112.png
